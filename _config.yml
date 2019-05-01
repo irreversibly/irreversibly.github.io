@@ -20,11 +20,11 @@ title                    : "Mingyu Kang's Github page"
 title_separator          : "-"
 name                     : "Mingyu Kang / 강민규"
 description              : "처음부터 차근차근, 한걸음씩"
-url                      : # the base hostname & protocol for your site e.g. "https://irreveersibly.github.io"
+url                      : "https://irreveersibly.github.io"
 baseurl                  : # the subpath of your site, e.g. ""
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "irreversibly/irreversibly.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/main_image.png"
+logo                     : "/assets/images/main_image.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
