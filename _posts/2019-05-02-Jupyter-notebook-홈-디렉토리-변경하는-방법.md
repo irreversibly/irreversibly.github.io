@@ -16,3 +16,4 @@ Jupyter notebook 홈 디렉토리 변경하는 방법
 8. 저장 후 jupyter notebook 재실행
 
 출처: https://luke77.tistory.com/52 [Luke Kim]
+
