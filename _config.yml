@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : minimal-mistakes-jekyll
+theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "Mingyu Kang's Github page"
 title_separator          : "-"
-name                     : "Mingyu Kang / ê°•ë¯¼ê·œ"
-description              : "ì²˜ìŒë¶€í„° ì°¨ê·¼ì°¨ê·¼, í•œê±¸ìŒì”©"
-url                      : "https://irreveersibly.github.io"
+name                     : "Mingyu Kang / °­¹Î±Ô"
+description              : "Ã³À½ºÎÅÍ Â÷±ÙÂ÷±Ù, ÇÑ°ÉÀ½¾¿"
+url                      : # the base hostname & protocol for your site e.g. "https://irreveersibly.github.io"
 baseurl                  : # the subpath of your site, e.g. ""
 repository               : "irreversibly/irreversibly.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Min-Gyu Kang, ê°•ë¯¼ê·œ"
-  avatar           : # path of avatar image, e.g. "/assets/images/main_image.png"
-  bio              : "ì²˜ìŒë¶€í„° ì°¨ê·¼ì°¨ê·¼, í•œê±¸ìŒì”©"
+  name             : "Min-Gyu Kang, °­¹Î±Ô"
+  avatar           : # path of avatar image, e.g. "/assets/images/main_image.jpg"
+  bio              : "Ã³À½ºÎÅÍ Â÷±ÙÂ÷±Ù, ÇÑ°ÉÀ½¾¿"
   location         : "Cheongju"
   email            : "irreversibly@gmail.com"
   links:
